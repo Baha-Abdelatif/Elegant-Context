@@ -45,7 +45,7 @@ Alternatively, you can view a demo at the following address:
 ## Contributions
 
 This site was created under the supervision of Maximilian Schwarzmueller, founder & instructor at Academind online school.
-As part of his Masterclass "Modern PHP: The Complete Guide".
+As part of his Masterclass "React - The Complete Guide".
 
 ---
 
