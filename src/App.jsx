@@ -1,4 +1,4 @@
-import { useState, useContext } from "react";
+import { useState } from "react";
 import { CartContext } from "./store/shopping-cart-context.jsx";
 import Product from "./components/Product.jsx";
 import Header from "./components/Header.jsx";
@@ -67,7 +67,7 @@ function App() {
   }
 
   return (
-    <CartContext.Provider>
+    <CartContext.Provider value={{ items: [] }}>
       <Header
         cart={shoppingCart}
         onUpdateCartItemQuantity={handleUpdateCartItemQuantity}
