@@ -38,7 +38,7 @@ In the root project folder to serve this project and view it in your browser.
 
 Alternatively, you can view a demo at the following address:
 
-[http://baha-abdelatif.me/Air-Quality-App/](http://baha-abdelatif.me/Air-Quality-App/)
+[http://baha-abdelatif.me/Elegant-Context/](http://baha-abdelatif.me/Elegant-Context/)
 
 ---
 
